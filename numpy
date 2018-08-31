@@ -1,6 +1,9 @@
 
 https://www.jianshu.com/p/a260a8c43e44
 
+https://www.jianshu.com/p/83c8ef18a1e8
+
+
 NumPy（Numerical Python）是Python语言的一个扩充程序库。支持高级大量的维度数组与矩阵运算，此外也针对数组运算提供大量的数学函数库。
 ndarray类
 
