@@ -1,0 +1,47 @@
+PIP
+pip 是一个现代的，通用的 Python 包管理工具。提供了对 Python 包的查找、下载、安装、卸载的功能.
+
+download:
+https://pypi.org/project/pip/#downloads
+
+documents:
+https://pip.pypa.io/en/stable/
+
+updating PIP:
+pip install -U pip
+
+pip -V --version
+pip list
+=====
+zonghongsong$ pip --version
+pip 18.0 from /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pip (python 3.6)
+zonghongsong$ pip list
+Package         Version
+--------------- -------
+cycler          0.10.0
+kiwisolver      1.0.1
+matplotlib      2.2.2
+numpy           1.15.0
+pandas          0.23.4
+pip             18.0
+pyparsing       2.2.0
+PyQt5           5.11.2
+PyQt5-sip       4.19.12
+python-dateutil 2.7.3
+pytz            2018.5
+scikit-learn    0.19.2
+scipy           1.1.0
+setuptools      28.8.0
+six             1.11.0
+sklearn         0.0
+=====
+
+pip install Pillow
+zonghongsong$ pip install Pillow
+Collecting Pillow
+  Downloading https://files.pythonhosted.org/packages/e8/2d/1a9f3a1694ba68544ac179991d021e12903a189aaeed93df0c065a0e8cad/Pillow-5.2.0-cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl (3.6MB)
+    100% |████████████████████████████████| 3.6MB 2.4MB/s
+Installing collected packages: Pillow
+Successfully installed Pillow-5.2.0
+
+
